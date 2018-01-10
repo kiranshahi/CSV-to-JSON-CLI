@@ -1,2 +1,11 @@
-[{"Ward No": "1", "Household": "1123", "Male": "1949", "Total People": "4738", "Female": "2789"},
+[
+{"Ward No": "1", "Household": "1123", "Male": "1949", "Female": "2789", "Total People": "4738"},
+{"Ward No": "2", "Household": "1098", "Male": "2092", "Female": "2916", "Total People": "5008"},
+{"Ward No": "3", "Household": "439", "Male": "827", "Female": "1139", "Total People": "1966"},
+{"Ward No": "4", "Household": "625", "Male": "1203", "Female": "1688", "Total People": "2891"},
+{"Ward No": "5", "Household": "865", "Male": "1610", "Female": "2093", "Total People": "3703"},
+{"Ward No": "6", "Household": "1377", "Male": "2278", "Female": "2913", "Total People": "5191"},
+{"Ward No": "7", "Household": "619", "Male": "1067", "Female": "1272", "Total People": "2440"},
+{"Ward No": "8", "Household": "675", "Male": "1137", "Female": "1501", "Total People": "2638"},
+{"Ward No": "9", "Household": "667", "Male": "1197", "Female": "1590", "Total People": "2787"},
 ]
