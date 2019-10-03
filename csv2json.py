@@ -15,6 +15,6 @@ try:
     new_file.write(json_out)
     new_file.close()
 
-    print("Sucess!!!")
+    print(f'{csv_filename} has been converted to {json_file} successfully.')
 except IOError as io_error:
     print(io_error)
